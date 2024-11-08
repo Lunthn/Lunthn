@@ -1,10 +1,7 @@
-<h1 align="left">👋 Hey</h1>
+<h1 align="left">👋 Hey, i'm Lunthn</h1>
 
 ###
 
-<p align="left">My name is Lunthn, (Student) Software Engineer from the Netherlands</p>
-
-###
 
 <h2 align="left">About me</h2>
 
