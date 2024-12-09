@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">📚 I'm currently improving my JavaScript. <br>🏫 Currently studying Software Engineering in Zwolle (Windesheim).</p>
+<p align="left">📚 I'm currently improving my JavaScript (if I have the time 🤣). <br>🏫 Currently studying Software Engineering in Zwolle (Windesheim).</p>
 
 ###
 
