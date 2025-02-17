@@ -7,7 +7,7 @@
 
 ###
 
-<p align="left">📚 I'm working with ASP.NET <br>🏫 Currently studying Software Engineering in Zwolle (Windesheim).</p>
+<p align="left">📚 I'm currently learning and working with ASP.NET <br>🏫 Studying Software Engineering in Zwolle (Windesheim).</p>
 
 ###
 
