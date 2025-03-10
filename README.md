@@ -46,4 +46,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="ESLint logo" />
   <img width="12" />
 </div>
-![Lunthn GitHub stats](https://github-readme-stats.vercel.app/api?username=Lunthn&show_icons=true&theme=transparent)
+
