@@ -42,5 +42,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" height="40" alt="Visual Studio logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png" height="40" alt="Swagger logo" />
-   <img width="12" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="ESLint logo" />
+  <img width="12" />
 </div>
+![Lunthn GitHub stats](https://github-readme-stats.vercel.app/api?username=Lunthn&show_icons=true&theme=transparent)
