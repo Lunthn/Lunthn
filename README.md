@@ -1,5 +1,4 @@
 <h1 align="left">👋 Hey, i'm Lunthn</h1>
-![Lunthn GitHub stats](https://github-readme-stats.vercel.app/api?username=lunthn&show_icons=true&theme=radical)
 <p align="left"> <i>Languages are arranged from strongest to weakest based on my level of expertise.</i></p>
 <h3 align="left">Languages</h3>
 <div align="left">
