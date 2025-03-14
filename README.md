@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hey, i'm Lunthn</h1>
+<h1 align="left">👋 Hey, i'm Nathan</h1>
 <p align="left"> <i>Languages are arranged from strongest to weakest based on my level of expertise.</i></p>
 <h3 align="left">Languages</h3>
 <div align="left">
