@@ -1,6 +1,6 @@
 # ⚙ Nathan Lupke 
 
-### Software Engineer
+## 📍 About
 
 <p align="left">Hi! My name is Nathan and I am a second-year IT student at Hogeschool Windesheim, specializing in Software Engineering. I have a strong passion for everything related to programming, with a particular focus on web development. I enjoy creating clean, efficient, and scalable applications, always looking for ways to improve my skills and stay up to date with the latest technologies.</p
                                                                                                                                                                                                                                                                                                                                                                                                                  
@@ -14,7 +14,7 @@
   
 </p>
 
-## 🔨 Tools, libraries, technologies, and frameworks I've worked with:
+## 🔨 Technologies
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -33,15 +33,13 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 ![ESLint](https://img.shields.io/badge/-ESLint-333333?style=flat&logo=eslint)
 ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
-<br><br>
 
-
+## 🚀 Stats
 <div style="display: flex; align-items: center; justify-content: space-evenly; margin: 0; padding: 0; width: 100%;">
-  <a href="https://github.com/SubhamRaoniar28/github-readme-stats" style="margin: 0; padding: 0;">
-    <img alt="Lunthns Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunthn&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" style="border-radius: 10px; margin: 0; padding: 0;">
-  </a>
+  <img alt="Lunthns Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunthn&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" style="border-radius: 10px; margin: 0; padding: 0;">
   <img alt="Lunthns GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Lunthn&theme=react&show_icons=true&bg_color=0D1117&hide_title=true&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true" style="border-radius: 10px; margin: 0; padding: 0;">
 </div>
+
 
 
 
