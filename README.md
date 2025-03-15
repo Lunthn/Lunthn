@@ -8,9 +8,6 @@ Software Engineer
   <a href="https://www.linkedin.com/in/nathanlupke" style="text-decoration: none;" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/nathanlupke/" style="text-decoration: none;" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
 </p>
 
 <h4 align="left">🔨 Tools, libraries, technologies, and frameworks I've worked with:</h4>
