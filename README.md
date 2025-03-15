@@ -33,10 +33,12 @@
 <br><br>
 
 
+<div style="display: flex; align-items: center; justify-content: space-evenly; margin: 0; padding: 0; width: 100%;">
   <a href="https://github.com/SubhamRaoniar28/github-readme-stats" style="margin: 0; padding: 0;">
     <img alt="Lunthns Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunthn&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" style="border-radius: 10px; margin: 0; padding: 0;">
   </a>
-  <img alt="Lunthns GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Lunthn&theme=react&show_icons=true&bg_color=0D1117&hide_title=true&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true&hide=contribs,stars" style="border-radius: 10px; margin: 0; padding: 0;">
+  <img alt="Lunthns GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Lunthn&theme=react&show_icons=true&bg_color=0D1117&hide_title=true&text_color=FFFFFF&icon_color=FFFFFF&hide_border=true" style="border-radius: 10px; margin: 0; padding: 0;">
+</div>
 
 
 
