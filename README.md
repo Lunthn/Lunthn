@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/nathanlupke" style="text-decoration: none;" target="_blank">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
   </a>
+  <a href="mailto:nr.lupke@gmail.com" style="text-decoration: none;" target="_blank">
+    <img src="https://custom-icon-badges.demolab.com/badge/Email-EA4335?logo=gmail&logoColor=fff" alt="Email">
+  </a>
   
 </p>
 
