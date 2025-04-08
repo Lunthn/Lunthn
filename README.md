@@ -31,6 +31,9 @@
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 ![ESLint](https://img.shields.io/badge/-ESLint-333333?style=flat&logo=eslint)
 ![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+
 
 
 
