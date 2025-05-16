@@ -1,16 +1,9 @@
 # ⚙ Nathan Lupke 
 
 <p align="left">Hi! My name is Nathan and I am an IT student at Hogeschool Windesheim, specializing in Software Engineering. I have a strong passion for everything related to programming, with a particular focus on web development. I enjoy creating clean, efficient, and scalable applications, always looking for ways to improve my skills and stay up to date with the latest technologies.</p
-                                                                                                                                                                                                                                                                                                                                                                                                                 
-<p align="left" text-decoration: none;>
-  <a href="https://www.linkedin.com/in/nathanlupke" style="text-decoration: none;" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" alt="LinkedIn">
-  </a>
-  <a href="mailto:nr.lupke@gmail.com" style="text-decoration: none;" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/Email-EA4335?logo=gmail&logoColor=fff" alt="Email">
-  </a>
-  
-</p>
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/nathanlupke) 
+[![Email](https://custom-icon-badges.demolab.com/badge/Email-EA4335?logo=gmail&logoColor=fff)](mailto:nr.lupke@gmail.com)
 
 ## 🔨 Technologies
 
