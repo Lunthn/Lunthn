@@ -1,6 +1,6 @@
 # ⚙ Nathan Lupke 
 
-<p align="left">Hi! My name is Nathan and I am a second-year IT student at Hogeschool Windesheim, specializing in Software Engineering. I have a strong passion for everything related to programming, with a particular focus on web development. I enjoy creating clean, efficient, and scalable applications, always looking for ways to improve my skills and stay up to date with the latest technologies.</p
+<p align="left">Hi! My name is Nathan and I am an IT student at Hogeschool Windesheim, specializing in Software Engineering. I have a strong passion for everything related to programming, with a particular focus on web development. I enjoy creating clean, efficient, and scalable applications, always looking for ways to improve my skills and stay up to date with the latest technologies.</p
                                                                                                                                                                                                                                                                                                                                                                                                                  
 <p align="left" text-decoration: none;>
   <a href="https://www.linkedin.com/in/nathanlupke" style="text-decoration: none;" target="_blank">
